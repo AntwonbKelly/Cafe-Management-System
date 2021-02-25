@@ -1,0 +1,18 @@
+Grandma BlueBerrys Cafe
+Address: Granstreet BelwarBlvd 1124
+415-667-1978
+**********************************
+R	e	c	i	e	p	t
+**********************************
+Items Ordered
+                   
+
+Cream of Mushroom Soup 2.99$
+Tomatoe soup 3.99$
+Miso Soup 4.99$
+Borscht 5.99$
+Total Amount: 17.96
+Cash: 19
+Change: 1.04
+---------------------------------- 
+*************THANK YOU****************
